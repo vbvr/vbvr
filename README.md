@@ -3,6 +3,7 @@
 
 Thank you for checking out my profile.  You will see here more of what I can do, than what shows on my [LinkedIn profile](https://www.linkedin.com/in/vadhym-beauvoir-b7559359). I do have more projects to share, so please stay tuned.
 
+(Avatar was cropped and adjusted from [this original piece](https://www.deviantart.com/zenpass/art/MFKZ-792468782)).
 <!--
 **vbvr/vbvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
